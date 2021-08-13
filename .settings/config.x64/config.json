@@ -1,0 +1,16 @@
+{
+	"name":"Buo+ Games",
+	"version":"v.x.x.x",
+	"games":[
+		"BrickBreaker 2D";
+	],
+	
+	"license":"MIT",
+
+	"OS":"Windows x64",
+
+	"user":[
+		'identity': "John Doe",
+		'registered': true,
+	],
+}
