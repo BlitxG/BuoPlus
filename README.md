@@ -5,7 +5,7 @@
 #### The '.settings' folder shouldn't be messed with due to problematic issues, the following is a data service for your copy of the game. 
 #### The UID cell holds your provided key, please don't share it with anyone, even our staff.
 
-___________________________________________________
+|-----------|-----------|----|-----------|--------|
 | 	 USER   |  VERSION  | || |  STORAGE  | 	 UID  |
 |-----------|-----------|----|-----------|--------|
 |  <name>   | <version> |    | <storage> |  <uid> | 
